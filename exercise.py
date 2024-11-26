@@ -48,7 +48,7 @@ def check_letter():
         print(f'The letter {x} is a consonant.')
 
 # Call the function
-# check_letter()
+check_letter()
 
 
 
@@ -81,7 +81,7 @@ def check_voting_eligibility():
         print('invalid entries')
 
 # Call the function
-# check_voting_eligibility()
+check_voting_eligibility()
 
 
 
@@ -116,7 +116,7 @@ def calculate_dog_years():
         print('invalid entries')
 
 # Call the function
-# calculate_dog_years()
+calculate_dog_years()
 
 
 
@@ -149,7 +149,7 @@ def weather_advice():
         print('Wear light clothing.')
 
 # Call the function
-# weather_advice()
+weather_advice()
 
 
 
@@ -197,7 +197,7 @@ def determine_season():
         print('invalid entries')
 
 # Call the function
-# determine_season()
+determine_season()
 
 
 
